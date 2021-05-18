@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Autores</string>
+    <string name="instructions">Ingrese el nombre del libro \n
+    Presione el boton buscar y obtenga su autor.</string>
+    <string name="btn_search">Buscar libro</string>
+    <string name="input_hint">Titulo del libro...</string>
+    <string name="sp_Filter">Filtrar:</string>
+    <string name="sp_Order">Ordenar por:</string>
+</resources>
